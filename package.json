@@ -1,6 +1,6 @@
 {
   "name": "the-loop",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "keywords": [
@@ -10,5 +10,9 @@
     "the-loop"
   ],
   "author": "Cole Michaels",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "git://github.com/cmichaelsd/The-Loop.git",
+  "publishConfig": {  
+    "registry": "https://npm.pkg.github.com"
+  }
 }
