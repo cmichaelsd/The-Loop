@@ -16,5 +16,5 @@ loop.push(marketingRequest); // [ [Function: marketingRequest] ]
 
 # Install
 ```
-npm install npm-loop
+npm install the-loop
 ```
