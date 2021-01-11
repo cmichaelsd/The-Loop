@@ -6,7 +6,7 @@ This repo allows you to find this mysterious "loop" and add whatever you want to
 
 # How it works
 ```javascript
-const { loop } = require("npm-loop");
+const { loop } = require("the-loop");
 
 function marketingRequest() {
     // ...
